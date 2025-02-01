@@ -22,5 +22,5 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 3. The game ends when either player gets three of their marks in a row (horizontally, vertically, or diagonally) or when the game board is full, resulting in a draw.
 4. After a game ends, you can reset the board by clicking the "Restart" button.
 
-#Screenshot
+# Screenshot
 ![Screenshot 2025-02-01 225647](https://github.com/user-attachments/assets/8437e15d-5a7e-4837-b1e1-3ac97087ec74)
