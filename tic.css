@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #548687;
+  text-align: center;
+}
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+.box {
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.7);
+  font-size: 8vmin;
+  color: red;
+}
+#reset-but {
+  padding: 1rem;
+  background-color: rgb(88, 63, 18);
+  font-size: 1.25rem;
+  border-radius: 1rem;
+  border: none;
+  color: white;
+}
+
+#new-btn {
+  padding: 0.5rem;
+  background-color: rgb(88, 63, 18);
+  font-size: 1.25rem;
+  border-radius: 1rem;
+  border: none;
+  color: white;
+  /* width: 20px; Set the desired width */
+  /* height: 15px; Set the desired height */
+}
+
+#msg {
+  color: #ffffc7;
+  font-size: 8vmin;
+}
+
+.msg-container {
+  height: 15vmin;
+}
+.hide {
+  display: none;
+}
